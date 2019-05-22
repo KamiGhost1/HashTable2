@@ -122,7 +122,5 @@ void clnTable(hashTable *table){
 
 void helpMenu(){
      printf("\tSTART WORK:\n -start\n\tEND WORK:\nexit()\n");
-     printf("\tOPTIONS:\n-c - create Hash table(table created default)\n-add - add new item\n-s - search item in table\n");
-     printf("-i input / -o output - in/out files\n-v/--view - print table\n");
-     printf("-del - deleted table\n");
+     printf("\tOPTIONS:\n-add - add new item\n-s - search item in table\n");
 }
