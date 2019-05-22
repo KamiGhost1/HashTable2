@@ -121,6 +121,6 @@ void clnTable(hashTable *table){
 }*/ 
 
 void helpMenu(){
-     printf("\tSTART WORK:\n -start\n\tEND WORK:\nexit()\n");
-     printf("\tOPTIONS:\n-add - add new item\n-s - search item in table\n");
+    printf("\tSTART WORK:\n -start\n\tEND WORK:\nexit()\n");
+    printf("\tOPTIONS:\nadd - add new item\nsearch - search item in table\nhelp - help menu\n");
 }
