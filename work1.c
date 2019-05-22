@@ -9,7 +9,6 @@ void work(){
     };
     _Bool find;
     char cmd[CMD_LEN];
-    int valve = NULL;
     int i;
     hashTable *table;
     table = createTable();
